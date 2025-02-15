@@ -10,4 +10,4 @@ A modern, fully responsive landing page built with HTML, CSS, and JavaScript.
 
 ## 🔧 Installation
 1. Clone the repository:
-git clone https://github.com/subhashinivellaturi/CODECRAFT_WD_01
+git clone https://github.com/subhashinivellaturi/CODECRAFT_WD_01.git
